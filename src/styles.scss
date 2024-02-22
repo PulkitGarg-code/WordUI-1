@@ -1,0 +1,69 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'ngx-toastr/toastr';
+
+@import "bootstrap-icons";
+@import "bootstrap";
+
+
+
+$purple: #444791;
+$purple-light: #5b5fc7;
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  overflow: hidden;
+  height: 100vh;
+}
+
+.py-12 {
+  padding: 12px 0px !important;
+}
+
+.p-14 {
+  padding: 14px !important;
+}
+
+
+.color-white {
+  color: white !important;
+}
+
+.color-black {
+  color: #000;
+}
+
+.text-lightgrey {
+  color: #c4bbbb !important;
+}
+
+
+.font-8 {
+  font-size: 8px !important;
+}
+
+.font-12 {
+  font-size: 12px !important;
+}
+
+.font-14 {
+  font-size: 14px;
+}
+
+.font-10 {
+  font-size: 10px;
+}
+
+.font-18 {
+  font-size: 18px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.flex-20 {
+  flex: 20;
+}
